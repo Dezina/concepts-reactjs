@@ -1,0 +1,45 @@
+.footer {
+    background: #000000;
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+    font-size: .8rem;
+    height: 250px;
+}
+.footer p {
+color: #fff;
+}
+.container-footer {
+    height: 250px;
+}
+.card {
+    background: #000000;
+}
+
+/* .footer ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.footer li {
+    display: inline-block;
+}
+
+.footer a {
+    display: block;
+    padding: .4rem .7rem;
+    font-size: .9rem;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+}
+
+.footer a:hover {
+    color: rgb(214, 214, 214);
+}
+.text-white {
+    color: #fff;
+}
+p {
+    color: #fff;
+} */

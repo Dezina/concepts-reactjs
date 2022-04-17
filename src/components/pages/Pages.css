@@ -1,0 +1,137 @@
+.work-bg{
+    color: rgb(0, 0, 0);
+    background: #37387a;
+    background-image: url('../../images/work-bg.jpeg');
+    min-height: 400px;
+    padding-top: 20vh;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.about-header{
+    color: #fff;
+    background: #37387a;
+    background-image: url('../../images/about-header.jpg');
+    height: 300px;
+    /* padding-top: 20vh; */
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.about-bg{
+    color: rgb(0, 0, 0);
+    background: #37387a;
+    background-image: url('../../images/about-bg2.jpg');
+    height: 400px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+.body-wrap {
+background-color: #000;
+}
+.about-bg-color {
+    background-color: #000;
+}
+.login {
+    background-color: #fff;
+}
+.signup {
+    background-color: #fff;
+}
+.admin {
+    background-color: #fff;
+}
+  
+h6{
+    text-align: left;
+}
+
+p{
+    font-weight: 300;
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+
+a{
+    color: #ffff;
+}
+
+.contact {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(25, 207, 168);
+    color: #ffff;
+    float: left;
+    font-size: 20px;
+}
+.bg-colored {
+   background-color: rgb(25, 207, 168); 
+}
+.testimonial {
+    height: 400px;
+}
+
+.button {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(25, 207, 168);
+    color: #ffff;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 7px;
+}
+
+.logos {
+    height: 230px;
+    background-color: #fff;
+}
+
+.main-div {
+  display: flex;
+}
+.item1 {
+  flex-basis: 100px;
+  height: 100px;
+  /* margin: 5px; */
+}
+.item2 {
+  flex-basis: 100px;
+  height: 100px;
+  width: 100%;
+  /* margin: 5px; */
+}
+
+details > summary {
+  padding: 3px 10px;
+  width: 750px;
+  background-color: rgb(255, 209, 209);
+  border: none;
+  box-shadow: 3px 3px 4px black;
+  cursor: pointer;
+  list-style: none;
+  overflow-y: auto;
+}
+details > div {
+  background-color: #ddd;
+  padding: 15px 10px;
+  width: 750px;
+  /* height: 400px;
+  overflow-y: auto; */
+}

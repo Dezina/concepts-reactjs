@@ -1,0 +1,41 @@
+header{
+    color: white;
+    background: #37387a;
+    background-image: url('../../images/space.jpg');
+    min-height: 100vh;
+    padding-top: 20vh;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+  
+header h3{
+    font-size: 2rem;
+    margin: 0 0 1rem;
+    color: #000;
+    text-align: left;
+}
+
+header p{
+    font-weight: 300;
+    font-size: 1rem;
+    color: grey;
+    text-align: left;
+}
+
+header a{
+    color: #ffff;
+}
+
+.button {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(25, 207, 168);
+    color: #ffff;
+    float: left;
+    text-align: center;
+}
